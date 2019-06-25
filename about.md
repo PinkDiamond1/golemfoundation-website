@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Golem Foundation
+permalink: index.html
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+<img src="/resources/Golem.Foundation_Logo_Positive_RGB.png" style="float:right;width:250px">
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Welcome to Golem Foundation.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+We develop and promote technologies that extend the vision of Golem and add novel applications for Golem Network Token. 
+
+Everything we do is based on the principles of transparency and freedom, which combined with a decentralized approach to software and social interactions can truly make a positive impact on our world.
+
+Our focus is on internal research and development but we are open to cooperation in the  wider decentralized ecosystem, including financing external teams whose goals are aligned with our agenda.

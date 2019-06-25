@@ -1,0 +1,53 @@
+/* Pages */
+
+.team {
+
+  margin: 0 1em;
+
+  .picture {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    display: inline-block;
+    overflow: hidden;
+    margin: 0 auto;
+    background-color: $gray-lighter;
+
+    img {
+        margin: 0px;
+        max-width: 100px;
+    }
+
+  }
+
+  .role {
+    display: block;
+    font-size: 12px;
+    color: $gray-dark;
+  }
+
+  .team {
+    display: block;
+    color: $gray-dark;
+  }
+
+  .bio {
+    display: block;
+    font-size: 14px;
+  }
+
+  .link {
+    font-size: 10px;
+    white-space: nowrap;
+  }
+
+  .fingerprint {
+    display: block;
+    background-color: $gray-lighter;
+    padding: 10px;
+    margin-bottom: $padding-large-vertical;
+    border-radius: 4px;
+    font-family: $font-family-monospace;
+  }
+
+}

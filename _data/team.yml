@@ -1,0 +1,41 @@
+- name: Julian Zawistowski
+  type: core
+  role: Execution
+  bio: Decentralised systems visionary and entrepreneur, founder and -
+    until June 2019 - CEO of Golem Factory. Economist by trade, fascinated
+    with blockchain technology, as well as sociology and economics of
+    decentralised systems. In the past consultant and researcher of
+    public policies, co-founder of Institute for Structural Research.
+  email: julian@golem.foundation
+  picture: julian.jpg
+  twitter: julianzawist
+  linkedin: julian-zawistowski-352478
+
+- name: Andrzej Regulski
+  type: core
+  role: Contact with Reality
+  bio: Passionate economist, experienced manager as well as a true believer in
+    decentralized technologies and open innovation. Co-founder and former COO of
+    Golem Factory.
+
+  picture: andrzej.jpg
+  email: andrzej@golem.foundation
+  linkedin: andrzej-regulski-5298a818
+
+- name: Joanna Rutkowska
+  type: core
+  role: Long-term navigation
+  bio: Spent nearly 20 years exploring various corners of computer systems
+    technology, down to the level of actual processors and devices, trying to
+    understand how these systems are supposed to work, as well as how they might
+    be tricked to work contrary to the intentions of the creators. Then moved on
+    to work on the defensive side for nearly another decade by founding and leading
+    the Qubes OS project. More recently, after a healthy sabbatical break from
+    infosec, joined Golem Project in October 2018 as Chief Strategy Officer, happy
+    to dive into the new world of challenges and possibilities.
+  picture: joanna.jpg
+  email: joanna@golem.foundation
+  twitter: rootkovska
+  github: rootkovska
+  website: https://blog.invisiblethings.org
+
