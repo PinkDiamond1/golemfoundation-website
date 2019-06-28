@@ -49,15 +49,41 @@
     margin-left: 0px;
   }
 
-  @media (min-width: $screen-sm-min) {
+  ol ul,
+  ul ol {
+    margin-bottom: 25px;
+  }
+
+  @media (min-width: $screen-md-min) {
     .page-content-left {
       border-right: 1px solid $gray-light;
     }
+    .page-content-right {
+      border-left: 1px solid $gray-light;
+    }
+    .page-source-bottom,
+    .toc-button-spacer,
+    #toc-button {
+      display: none;
+    }
+    .button-heading {
+      text-align: right;
+      float: right;
+    }
   }
 
+  @media (max-width: $screen-md-min) {
+    .page-source-side {
+      display: none;
+    }
+    .page-source-bottom {
+      padding-top: 14px;
+      border-top: 1px solid $gray-light;
+    }
+    .button-heading {
+      text-align: left;
+      float: left;
+    }
+  }
 }
 
-
-@media screen and (max-width: $on-palm) {
-
-}
